@@ -1,0 +1,22 @@
+{
+    "name": "taller/02",
+    "description": "taller laravel 02",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "dompdf/dompdf": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Taller\\02\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Harold Pineda",
+            "email": "hrpinedar91@gmail.com"
+        }
+    ]
+}
+
+
